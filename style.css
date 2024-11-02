@@ -1,0 +1,13 @@
+.box1 {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.ota-ona {
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+}
